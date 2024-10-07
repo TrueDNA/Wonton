@@ -1,4 +1,4 @@
-> [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/roddyfred)
+> Join Wonton Link (https://t.me/WontonOrgBot/gameapp?startapp=referralCode=E0U03V0B)
 
 # Use Node.Js 18 or later
 
