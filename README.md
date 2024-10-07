@@ -15,9 +15,9 @@
 | Binding a proxy to a session/query_id |    ✅     |
 | Random sleep time between clicks      |    ✅     |
 
-### [How to add query id](https://github.com/Freddywhest/RockyRabbitBot/blob/main/AddQueryId.md)
+### [How to add query id](https://t.me/WontonOrgBot/gameapp?startapp=referralCode=E0U03V0B)
 
-## [Settings](https://github.com/FreddyWhest/WontonBot/blob/main/.env-example)
+## [Settings](https://t.me/WontonOrgBot/gameapp?startapp=referralCode=E0U03V0B)
 
 | Settings                       | Description                                                                |
 | ------------------------------ | -------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@
 
 ## Installation
 
-You can download [**Repository**](https://github.com/FreddyWhest/WontonBot) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://t.me/WontonOrgBot/gameapp?startapp=referralCode=E0U03V0B) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
 ~ >>> git clone https://github.com/FreddyWhest/WontonBot.git
